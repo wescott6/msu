@@ -1,4 +1,4 @@
 # msu
 projects
 
-#Nice Porject Jacob
+#Nice Project Jacob
